@@ -38,7 +38,7 @@ This Power BI dashboard explores a dataset of UPI transactions in India across v
 
 ## 📊 Tools Used
 
-- Power BI (Visuals, Bookmarks, DAX Measures, Slicers)
+- Power BI (Visuals, Bookmarks, Power Query, Slicers)
 - Excel / CSV (for data prep)
 - GitHub (Project Hosting)
 
