@@ -34,7 +34,7 @@ This Power BI dashboard explores a dataset of UPI transactions in India across v
 ## 📈 Live Dashboard
 
 🔗 **View the published Power BI report here:**  
-👉 [https://bit.ly/upi-dashboard-live](https://app.powerbi.com/links/3j0bdUUWE5?ctid=6d600138-0932-49bd-951c-0d8382b1ee74&pbi_source=linkShare&bookmarkGuid=75cb0d58-c779-4207-8108-e8816c19fedb)
+👉 [Click Here](https://app.powerbi.com/links/3j0bdUUWE5?ctid=6d600138-0932-49bd-951c-0d8382b1ee74&pbi_source=linkShare&bookmarkGuid=75cb0d58-c779-4207-8108-e8816c19fedb)
 
 > *(The link opens the interactive report on Power BI Service)*
 
